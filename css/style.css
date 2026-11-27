@@ -15,8 +15,7 @@
         src: url("css/LEMONMILK-Bold.otf");
         font-weight: bold;
     }
-
-<!-- style sheet -->
+<!-- general layout -->
     body {
         margin: 2em;
         font-family: "lemonmilk";
