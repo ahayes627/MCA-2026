@@ -1,7 +1,7 @@
  /* font imports */
     @font-face {
         font-family: "lemonmilk";
-        src: url("../../css/lemon_milk/LEMONMILK-Regular.otf");
+        src: url("css/LEMONMILK-Regular.otf");
         font-weight: normal;
     }
 
@@ -12,7 +12,7 @@
 
     @font-face {
         font-family: "lemonmilk.bold";
-        src: url("../../css/lemon_milk/LEMONMILK-Bold.otf");
+        src: url("css/LEMONMILK-Bold.otf");
         font-weight: bold;
     }
 
