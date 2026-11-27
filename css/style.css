@@ -1,13 +1,13 @@
 <!-- font imports -->
+   @font-face {
+  font-family: "myFont";
+  src: url("myFont.woff2");
+}
+
     @font-face {
         font-family: "lemonmilk";
         src: url("css/LEMONMILK-Regular.otf");
         font-weight: normal;
-    }
-
-    @font-face {
-        font-family: "myFont";
-        src: url("myFont.woff2");
     }
 
     @font-face {
