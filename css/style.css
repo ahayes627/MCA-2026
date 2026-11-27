@@ -16,9 +16,7 @@
         font-weight: bold;
     }
 
-    html {
-        cursor: url("https://cdn.custom-cursor.com/db/18420/32/sanrio-powder-with-flower-cursor.png"), default;
-    }/* General setup */
+   /* General setup */
     body {
         margin: 2em;
         font-family: "lemonmilk";
