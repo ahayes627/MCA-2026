@@ -15,10 +15,6 @@
         src: url("css/LEMONMILK-Bold.otf");
         font-weight: bold;
     }
-<!-- custom cursor -->
-html {
-  cursor: url('https://cdn.cursors-4u.net/previews/eighth-note-def52bc1-32.webp') 32 32, auto ! important;
-}
 <!-- general setup -->
     body {
         margin: 2em;
