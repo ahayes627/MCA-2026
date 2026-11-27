@@ -6,13 +6,13 @@
 
     @font-face {
         font-family: "lemonmilk";
-        src: url("css/LEMONMILK-Regular.otf");
+        src: url(".../.../MCA-2026/css/LEMONMILK-Regular.otf");
         font-weight: normal;
     }
 
     @font-face {
         font-family: "lemonmilk.bold";
-        src: url("css/LEMONMILK-Bold.otf");
+        src: url(".../.../MCA-2026/css/LEMONMILK-Bold.otf");
         font-weight: bold;
     }
 <!-- general setup -->
