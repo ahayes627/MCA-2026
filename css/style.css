@@ -1,4 +1,4 @@
- /* font imports */
+<!-- style sheet -->
     @font-face {
         font-family: "lemonmilk";
         src: url("css/LEMONMILK-Regular.otf");
@@ -16,7 +16,7 @@
         font-weight: bold;
     }
 
-   /* General setup */
+<!-- style sheet -->
     body {
         margin: 2em;
         font-family: "lemonmilk";
