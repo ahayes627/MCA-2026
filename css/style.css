@@ -1,4 +1,4 @@
-<!-- style sheet -->
+<!-- font imports -->
     @font-face {
         font-family: "lemonmilk";
         src: url("css/LEMONMILK-Regular.otf");
@@ -15,7 +15,11 @@
         src: url("css/LEMONMILK-Bold.otf");
         font-weight: bold;
     }
-<!-- general layout -->
+<!-- custom cursor -->
+html {
+  cursor: url('https://cdn.cursors-4u.net/previews/eighth-note-def52bc1-32.webp') 32 32, auto !important;
+}
+<!-- general setup -->
     body {
         margin: 2em;
         font-family: "lemonmilk";
