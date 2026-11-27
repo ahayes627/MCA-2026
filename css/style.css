@@ -1,7 +1,7 @@
 <!-- font imports -->
    @font-face {
-  font-family: "myFont";
-  src: url("myFont.woff2");
+  font-family: "myfont";
+  src: url("myfont.woff2")format('woff2');
 }
 
     @font-face {
